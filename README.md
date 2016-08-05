@@ -4,7 +4,9 @@
 - NodeJS
 - Mongo
 - NPM
-*
+
+## How to start 
+
 * Run in command line "mongodb"
 * Go in an other shell, in the server repo and type "npm run dev"
 * Go in your browser and type : [http://localhost:9191]
